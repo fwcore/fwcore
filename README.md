@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on building a __real-time visual SLAM system for AR glasses__.
+- 🌱 I’m currently developing computer vision algorithms for 2D-3D matching, optimization-based pose estimation, etc., to build robust and fast tracking, mapping, loop-closing algorithms.
+
 <!--
 **fwcore/fwcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
